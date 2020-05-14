@@ -1,0 +1,5 @@
+menguasai git dan github untuk bisa bekerja dengan berkolaborasi
+mempelajari dasar2 python
+mempelajari implementasi python untuk teknik otomasi
+mempelajari dart
+mempelajari flutter sebagai framework mobile app 
