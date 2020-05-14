@@ -7,3 +7,4 @@ mempelajari implementasi python untuk teknik otomasi
 mempelajari dart
 mempelajari flutter sebagai framework mobile app 
   -menggunakan vs code
+
